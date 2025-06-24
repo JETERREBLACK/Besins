@@ -1,0 +1,23 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+}
+#_idContainer000 {
+	width:100%;
+}
+img._idGenObjectAttribute-1 {
+	height:100%;
+	min-width:100%;
+	width:100%;
+    margin-bottom: -5px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
